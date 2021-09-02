@@ -1,0 +1,171 @@
+body{
+	background-color: lightslategrey;
+	color: black;
+	margin: auto;
+	line-height: 5.5em;
+	font:normal 18px fantasy;
+	padding: 5px;
+
+}
+#main-header{
+	font-size: 18px;
+	color: white;
+	letter-spacing: 3px;
+	text-align: center;
+	background-image: url('../images/cod.jpg');
+	background-position: center;
+	min-height: 300px;
+	padding: 5px;
+	line-height: 5.5em;
+	border-style: solid;
+}
+#main-header h1{
+	background-color: grey;
+	padding: 10px;
+	width: 50%;
+	margin: auto;
+	overflow: hidden;
+	border: 1px;
+	display: inline;
+	}
+
+
+#main-header p{
+	padding: 10px;
+	background-color: darkgrey;
+	color: black;
+	font: bold 18px FreeMono, monospace;
+	text-decoration: underline wavy black;
+	margin: 12px;
+}
+
+.container{
+	text-align: center;
+	line-height: 1em;
+	font: bold 20px sans-serif;
+	
+}
+#Optic-gaming h2{
+	color: forestgreen;
+	text-decoration: underline;
+	background-image: url('../images/og.jpg');
+	background-position: center right;
+	min-height: 500px;
+	margin: 5px;
+	padding: 5px;
+	border-style: solid;
+	font: bold 35px monospace;
+
+}
+#Optic-gaming p{
+	color: black;
+	line-height: 1em;
+	font: bold sans-serif;
+	font-size: 18px;
+	padding: 25px;
+	border-style: double;
+}
+#nav-bar{
+	background-color: floralwhite;
+	color: white;
+	line-height: 1.5em;
+}
+#nav-bar ul{
+	padding:0 ;
+	list-style: none;
+}
+#nav-bar li{
+	display: inline;
+}
+#nav-bar a{
+	padding-right: 15px;
+	font-size: 26px;
+}
+
+#Faze-Clan{
+	font: 20px times new roman;
+	line-height: 1.5em;
+	margin: 5px;
+	
+}
+
+#Faze-Clan h3{
+	color: indianred;
+	text-align: center;
+	font-size: 35px;
+	min-height: 400px;
+	margin: 5px;
+	padding: 10px;
+	background-image: url('../images/faze.jpg');
+	background-position: center;
+	text-decoration: underline;
+	border-style: solid;
+	font: 40px fantasy;
+}
+
+#Faze-Clan p{
+	color: black;
+	font: normal 18px Arial;
+	border-style: double;
+}
+
+#Thieves h4{
+	text-align: center;
+	font: 40px fantasy;
+	font-weight: 900;
+	text-decoration: underline;
+	line-height: 1.5em;
+	background-image: url('../images/100t.jpg');
+	background-position: center;
+	min-height: 700px;
+	margin: 5px;
+	padding: 5px;
+	color: red;
+	border-style: solid;
+}
+#Thieves p{
+	font: normal 18px monospace;
+	margin: 5px;
+	padding: 5px;
+	line-height: 1.5em;
+	border-style: double;
+}
+
+#Empire h5{
+	text-align: center;
+	font-size: 35px;
+	background-image: url('../images/empire.jpg');
+	background-position: center;
+	min-height: 500px;
+	margin: 5px;
+	padding: 5px;
+	border-style: solid;
+	color: goldenrod;
+	text-decoration: underline;
+}
+#Empire p{
+	padding: 5px;
+	margin: 5px;
+	border-style: dotted;
+	letter-spacing: 1px;
+}
+
+#Ultra H6{
+	text-align: center;
+	text-decoration: underline;
+	font: bold 40px fantasy;
+	color: rebeccapurple;
+	padding: 5px;
+	margin: 5px;
+	background-image: url('../images/tu.jpg');
+	min-height: 600px;
+	background-position: center;
+	border-style: solid;
+	background-repeat: no-repeat;
+	width: 100%;
+}
+
+#Ultra p{
+	border-style: double;
+	color: rebeccapurple;
+}
